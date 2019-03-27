@@ -3,6 +3,6 @@ Baidu's Densebox implemention with PyTorch used for multi-task learning of objec
 
 # Test result
 ![](https://github.com/CaptainEven/DenseBox/blob/master/demo_1.jpg) </br>
-![](https://github.com/CaptainEven/DenseBox/blob/master/demo_1.jpg) </br>
-![](https://github.com/CaptainEven/DenseBox/blob/master/demo_1.jpg) </br>
+![](https://github.com/CaptainEven/DenseBox/blob/master/demo_2.jpg) </br>
+![](https://github.com/CaptainEven/DenseBox/blob/master/demo_3.jpg) </br>
 
