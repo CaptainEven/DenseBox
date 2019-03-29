@@ -11,4 +11,8 @@ Baidu's Densebox implemention with PyTorch used for multi-task learning of objec
 ![](https://github.com/CaptainEven/DenseBox/blob/master/pair_1_1.jpg)
 ![](https://github.com/CaptainEven/DenseBox/blob/master/pair_1_2.jpg) </br>
  
+![](https://github.com/CaptainEven/DenseBox/blob/master/pair_2_1.jpg)
+![](https://github.com/CaptainEven/DenseBox/blob/master/pair_2_2.jpg) </br>
 
+![](https://github.com/CaptainEven/DenseBox/blob/master/pair_3_1.jpg)
+![](https://github.com/CaptainEven/DenseBox/blob/master/pair_3_2.jpg) </br>
