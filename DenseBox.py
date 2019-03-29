@@ -5,7 +5,7 @@ import os
 os.environ['CUDA_DEVICE_ORDER'] = 'PCI_BUS_ID'
 import torch
 
-os.environ['CUDA_VISIBLE_DEVICES'] = '4'
+os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 device = torch.device('cuda: 0' if torch.cuda.is_available() else 'cpu')
 
 import torch.nn as nn
