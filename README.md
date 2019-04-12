@@ -19,6 +19,6 @@ Baidu's Densebox implemention with PyTorch used for multi-task learning of objec
 
 
 ## A small dataset sample: </br>
-[patches](https://pan.baidu.com/s/1wRh-X2jlcnk-Ycmlx_v2FA) </br>
+[patches](https://pan.baidu.com/s/1hGtdPHhuMW9Lz0gRLMYUUw) </br>
 
-extract code: bi39 </br>
+extract code: ir6n </br>
